@@ -32,6 +32,10 @@ body {
 	line-height: 1;
     background-color: #dbacd7;
 }
+p{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
 ol, ul {
 	list-style: none;
 }
